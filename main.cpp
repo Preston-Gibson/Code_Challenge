@@ -19,7 +19,7 @@ void UpdateWordBank(vector<string> &wordBank, string wordToDelete); //DELETES TH
 void ValidGuess(bool& validGuess, char letterGuess, vector<char> guessList); //CHECKS TO MAKE SURE THE USER ENTERS A NEW LETTER
 
 int main() {
-    bool hasFinished;
+    bool hasFinished; //BLAH BLAH BLAH
     bool keepPlaying = true;
     char playerInput;
     int correctGuesses;
